@@ -99,7 +99,7 @@
   width: 48px;
   height: 48px;
   border: none;
-  background: url(../assets/adds/arrow-left.png);
+  background: url(../images/arrow-left.png);
   background-size: cover;
   cursor: pointer;
 }
@@ -627,46 +627,60 @@ body
     display: none;
   }
 }
-
-.feature-carousel-section 
+.deathvlife
 {
+height: 716px;
+width: 900px;
+margin-right: -4px;
+}
+.asdream2
+{
+height: 716px;
+width: 900px;
+}
+.rower-img
+{
+  height: 716px;
+  width: 900px;
+}
+.mapka-img 
+{
+  height: 716px;
+  width: 900px;
+}
+
+.feature-carousel-section {
   padding: 0 10%;
   direction: rtl;
 }
 
-.feature-carousel-section .feature-carousel-section__glider 
-{
+.feature-carousel-section .feature-carousel-section__glider {
   width: 100%;
   overflow: hidden;
   padding: 0 10%;
 }
 
-.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .carousel-item-img 
-{
+.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .carousel-item-img {
   width: 100%;
   height: auto;
 }
 
-.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__thumbnail 
-{
+.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__thumbnail {
   overflow: hidden;
 }
 
-.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__thumbnail .feature-carousel-section__thumbnail-image 
-{
+.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__thumbnail .feature-carousel-section__thumbnail-image {
   width: 100%;
   height: auto;
 }
 
-.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__resp-container 
-{
+.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__resp-container {
   position: relative;
   overflow: hidden;
   padding-top: 50.25%;
 }
 
-.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__resp-container .feature-carousel-section__resp-iframe 
-{
+.feature-carousel-section .feature-carousel-section__glider .feature-carousel-section__glider-items-all .feature-carousel-section__resp-container .feature-carousel-section__resp-iframe {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   position: absolute;
